@@ -1,6 +1,6 @@
 # mazerunner
 
-A new Flutter project.
+A Practice Flutter project.
 
 ## Getting Started
 
